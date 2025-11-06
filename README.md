@@ -1,17 +1,17 @@
 <h1 align="center">Hello, I'm Dristi! :D</h1>
 <h3 align="center">💻 Computer Science Researcher · Developer · Maker</h3>
-
-### 💬 About Me  
-🌱 I’m a high-school student from San Jose exploring the intersections of **machine learning, hardware systems, and quantum computing.**  
-🎓 Researching **mechanistic interpretability** at AlgoverseAI and **neuromorphic computing** at UCSB SRA.  
-🔬 Building sustainability-focused tools like **BioBuddy**, which minimizes lab plastic waste through smart task optimization.  
-🧠 Passionate about ethical AI, spiking neural networks, and quantum AI for healthcare and sustainability.  
+I’m a high-school student from San Jose exploring the intersections of ML and neuro.
 
 ### 🧰 My Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </p>
 
 ### My Toolkit
