@@ -49,8 +49,7 @@ I’m a high-school student from San Jose exploring the intersections of ML and 
 
 ### 🔗 Connect with Me  
 <p align="left">
-  <a href="https://github.com/R-driste"><img src="https://img.shields.io/badge/GitHub-R-driste-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
