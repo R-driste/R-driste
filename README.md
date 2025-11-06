@@ -1,15 +1,11 @@
-<h1 align="center">Heyo, I'm Dristi! 👋</h1>
-<h3 align="center">💻 Aspiring Researcher · Developer · Maker 💡</h3>
-
----
+<h1 align="center">Hello, I'm Dristi! :D</h1>
+<h3 align="center">💻 Computer Science Researcher · Developer · Maker</h3>
 
 ### 💬 About Me  
 🌱 I’m a high-school student from San Jose exploring the intersections of **machine learning, hardware systems, and quantum computing.**  
 🎓 Researching **mechanistic interpretability** at AlgoverseAI and **neuromorphic computing** at UCSB SRA.  
 🔬 Building sustainability-focused tools like **BioBuddy**, which minimizes lab plastic waste through smart task optimization.  
 🧠 Passionate about ethical AI, spiking neural networks, and quantum AI for healthcare and sustainability.  
-
----
 
 ### 🧰 My Languages  
 <p align="left">
@@ -53,7 +49,7 @@
 
 ### 🔗 Connect with Me  
 <p align="left">
-  <a href="https://github.com/jstxw"><img src="https://img.shields.io/badge/GitHub-jstxw-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/R-driste"><img src="https://img.shields.io/badge/GitHub-R-driste-black?style=for-the-badge&logo=github"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
