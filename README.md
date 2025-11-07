@@ -1,6 +1,9 @@
 <h1 align="center">Hello, I'm Dristi! :D</h1>
 <h3 align="center">💻 Computer Science Researcher · Developer · Maker</h3>
 I’m a high-school student from San Jose exploring the intersections of ML and neuro.
+<p align="left">
+  <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=for-the-badge&logo=linkedin"/></a>
+</p>
 
 ### 🧰 My Languages  
 <p align="left">
@@ -37,12 +40,3 @@ I’m a high-school student from San Jose exploring the intersections of ML and 
 *(Powered by [wakatime.com](https://wakatime.com))*  
 
 ---
-
-### 🔗 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=for-the-badge&logo=linkedin"/></a>
-</p>
-
----
-
-⭐ *“Building the bridge between curiosity, code, and conscience.”*
