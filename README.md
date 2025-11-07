@@ -27,15 +27,6 @@ I’m a high-school student from San Jose exploring the intersections of ML and 
 
 ---
 
-### 🧩 Highlights  
-- 🔬 **Researcher** in interpretability and spiking neural networks.  
-- 🧭 **Builder** of hardware prototypes (RP2040 glove, macropad, Seeed Studio projects).  
-- 🌍 **Sustainability Innovator**: BioBuddy for lab waste reduction.  
-- 💡 **Explorer** in quantum AI and ethical technology design.  
-- 🧰 Always learning, teaching, and building tools that make tech more human-aligned.
-
----
-
 ### 📊 Coding Stats  
 
 <!-- Replace with your Hackatime or Wakatime badge URL -->
