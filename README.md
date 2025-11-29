@@ -19,6 +19,13 @@ UCSB: Intro to Research (Neuromorphic Computing)
   <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
+### My Events
+<p align="center">
+  <img src="bh25git.jpeg" alt="BH25" width="200">
+  <img src="ddsvgit.jpeg" alt="DDSV" width="200">
+  <img src="gccogit.jpeg" alt="GCCO" width="200">
+</p>
+
 ### 🧰 My Languages  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
