@@ -59,9 +59,8 @@ UCSB: Intro to Research (Neuromorphic Computing)
   <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-## Certifications
+#### Certifications
 Programming I, Programming II, Scrum Methodologies, all AI GWC SPP Certs
----
 
 ### 📊 Coding Stats  
 Please note that a LARGE majority of my hours and code don't get tracked in Github or Hackatime.
