@@ -1,6 +1,12 @@
 <h1 align="center">Hello, I'm Dristi! :D</h1>
 <h3 align="center">💻 Computer Science Researcher · Developer · Maker</h3>
-I’m a high-school student from San Jose exploring the intersections of ML and neuro.
+I’m a high-school student from San Jose exploring the intersections of machine learning and neuro.
+
+(If you're reading this from University of California, hi!!!)
+
+### 🧰 My Relevant Coursework  
+Computer Science PLTW, Data Science 1 in R, Computer Science A, Computer Programming in C, CS 2 in C++, Computer Programming in Java, Intro to Research, Advanced Python, Intro App/Graphic Design.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
