@@ -6,9 +6,13 @@ I’m a high-school student from San Jose exploring the intersections of machine
 
 ### 🧰 My Relevant Coursework  
 BHS: Computer Science PLTW, Computer Science A
+
 EVC: Computer Programming in C, CS 2 in C++
+
 WVC: Computer Programming in Java, Advanced Python, Intro App/Graphic Design.
+
 ATDP: Data Science 1 in R
+
 UCSB: Intro to Research (Neuromorphic Computing)
 
 <p align="left">
