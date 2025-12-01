@@ -28,6 +28,8 @@ UCSB: Intro to Research (Neuromorphic Computing)
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web-Development-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
 </p>
 
 ### My Toolkit
@@ -56,6 +58,7 @@ UCSB: Intro to Research (Neuromorphic Computing)
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### Events I've Run :>
