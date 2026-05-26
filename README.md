@@ -8,7 +8,7 @@ Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C+
   <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=flat-square&logo=linkedin"/></a>
 </p>
 
-### 🧰 My Languages  
+### 🧰 My Languages/Toolkit  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
@@ -19,10 +19,6 @@ Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web-Development-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-</p>
-
-### My Toolkit
-<p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
