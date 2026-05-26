@@ -1,8 +1,5 @@
 <h1 align="center">Hello, I'm Dristi! :D</h1>
 <h3 align="center">💻 Computer Science Researcher · Developer · Maker</h3>
-I'm a high-school student from San Jose exploring the intersections of machine learning and neuro.
-
-(If you're reading this from University of California or NCWIT or Hack Club, hi!!!)
 
 ### 🧰 My Relevant Coursework  
 BHS: Computer Science PLTW, Computer Science A
