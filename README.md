@@ -2,15 +2,7 @@
 <h3 align="center">💻 Computer Science Researcher · Developer · Maker</h3>
 
 ### 🧰 My Relevant Coursework  
-BHS: Computer Science PLTW, Computer Science A
-
-EVC: Computer Programming in C, CS 2 in C++
-
-WVC: Computer Programming in Java, Advanced Python, Intro App/Graphic Design.
-
-ATDP: Data Science 1 in R
-
-UCSB: Intro to Research (Neuromorphic Computing)
+Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C++, Computer Programming in Java, Advanced Python, Intro App/Graphic Design., Data Science 1 in R, Intro to Research (Neuromorphic Computing)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=flat-square&logo=linkedin"/></a>
