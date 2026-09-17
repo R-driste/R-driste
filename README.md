@@ -55,7 +55,6 @@ Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C+
 #### Certifications
 Programming I, Programming II, Scrum Methodologies, all AI GWC SPP Certs
 
-### 📊 Coding Stats  
 Please note that a LARGE majority of my hours and code don't get tracked in Github or Hackatime.
 <!-- Replace with your Hackatime or Wakatime badge URL -->
 <p align="center">
