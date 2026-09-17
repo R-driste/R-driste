@@ -47,9 +47,7 @@ Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C+
 
 ### Events I've Helped Direct :>
 <p align="center">
-  <img src="bh25git.jpeg" alt="BH25" width="200">
-  <img src="ddsvgit.jpeg" alt="DDSV" width="200">
-  <img src="gccogit.jpeg" alt="GCCO" width="200">
+  <img src="Dristi Roy Events Manifesto.png">
 </p>
 
 #### Certifications
