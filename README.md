@@ -1,13 +1,13 @@
 <h1 align="center">Dristi - CS UCLA</h1>
 
-### 🧰 Relevant Coursework  
+### Relevant Coursework  
 Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C++, Computer Programming in Java, Advanced Python, Intro App/Graphic Design., Data Science 1 in R, Intro to Research (Neuromorphic Computing)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dristi-roy-699011271/"><img src="https://img.shields.io/badge/LinkedIn-Dristi_Roy-blue?style=flat-square&logo=linkedin"/></a>
 </p>
 
-### 🧰 My Languages/Toolkit  
+### My Languages/Toolkit  
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
