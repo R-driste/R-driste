@@ -45,7 +45,7 @@ Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C+
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### Events I've Run :>
+### Events I've Helped Direct :>
 <p align="center">
   <img src="bh25git.jpeg" alt="BH25" width="200">
   <img src="ddsvgit.jpeg" alt="DDSV" width="200">
