@@ -53,7 +53,7 @@ Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C+
 #### Certifications
 Programming I, Programming II, Scrum Methodologies, all AI GWC SPP Certs
 
-Please note that a LARGE majority of my hours and code don't get tracked in Github or Hackatime.
+Please note that a LARGE majority of my hours and code don't get tracked in Github or Hackatime, and for some reason nor do my private commits.
 <!-- Replace with your Hackatime or Wakatime badge URL -->
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2769&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"/>
