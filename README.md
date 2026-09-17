@@ -1,7 +1,6 @@
-<h1 align="center">Hello, I'm Dristi! :D</h1>
-<h3 align="center">💻 Computer Science Researcher · Developer · Maker</h3>
+<h1 align="center">Dristi - CS UCLA</h1>
 
-### 🧰 My Relevant Coursework  
+### 🧰 Relevant Coursework  
 Computer Science PLTW, Computer Science A, Computer Programming in C, CS 2 in C++, Computer Programming in Java, Advanced Python, Intro App/Graphic Design., Data Science 1 in R, Intro to Research (Neuromorphic Computing)
 
 <p align="left">
